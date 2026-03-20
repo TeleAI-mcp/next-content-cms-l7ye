@@ -1,2 +1,3 @@
-# next-content-cms-l7ye
+# Next Content Cms L7Ye
+
 A content management system for modern development workflows.
